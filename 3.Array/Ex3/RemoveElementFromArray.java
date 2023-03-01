@@ -24,10 +24,10 @@ public class RemoveElementFromArray {
 
         // Xoá phần tử cần xoá (nếu có) và dịch chuyển các phần tử phía sau về trước
         if (index_del != -1) {
-            for (int i = index_del; i < arr.length - 1; i++) {
+            for (int i = index_del; i < arr.length - 1 ; i++) {
                 arr[i] = arr[i+1];
             }
-            arr[arr.length-1] = 0;  // Gán giá trị mặc định cho vị trí cuối cùng
+            //arr[arr.length-1] = 0;  // Gán giá trị mặc định cho vị trí cuối cùng
             System.out.println("Mảng mới sau khi xoá " + x + ": " + Arrays.toString(arr));
         } else {
             System.out.println("Không tìm thấy giá trị cần xoá trong mảng");

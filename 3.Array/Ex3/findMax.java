@@ -13,6 +13,5 @@ public class findMax {
 
         }
         System.out.println(" Max = " + max);
-
     }
 }
