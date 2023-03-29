@@ -2,6 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73a8510c-2de7-4429-81f4-23d9f9117519" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Module-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/CaseStudy/Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/CaseStudy/Contract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/CaseStudy/EmployeeServiceImpl/BookingServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/CaseStudy/EmployeeServiceImpl/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/CaseStudy/EmployeeServiceImpl/EmployeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/CaseStudy/EmployeeServiceImpl/FacilityServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/CaseStudy/EmployeeServiceImpl/FuramaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/CaseStudy/Facility/Facility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/CaseStudy/Facility/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/CaseStudy/Facility/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/CaseStudy/Facility/Villa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/CaseStudy/Person/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/CaseStudy/Person/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/CaseStudy/Person/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/CaseStudy/TaskFirst/TaskFirst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/CaseStudy/services/BookingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/CaseStudy/services/ContractService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/CaseStudy/services/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/CaseStudy/services/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/CaseStudy/services/FacilityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/CaseStudy/services/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/SearchAlgorithm/FindLongestString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../6. Kế thừa/Inheritance/Circle.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../6. Kế thừa/Inheritance/Point.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../6. Kế thừa/Inheritance/Point2D.java" beforeDir="false" />
@@ -12,6 +36,20 @@
       <change beforePath="$PROJECT_DIR$/../untitled1/out/production/untitled1/Ex3/AddElement.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled1/out/production/untitled1/Ex3/MergeArrays.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled1/out/production/untitled1/Ex3/RemoveElementFromArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/ProductManager/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1/src/ProductManager/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/ProductManager/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1/src/ProductManager/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/ProductManager/ProductManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1/src/ProductManager/ProductManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/SearchAlgorithm/BinarySearchRecursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1/src/SearchAlgorithm/BinarySearchRecursive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/SearchAlgorithm/SortingString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1/src/SearchAlgorithm/SortingString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/Stack_Queue/DecimalToBinary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/Stack_Queue/Employee/DemergingAlgorithm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/Stack_Queue/Employee/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/Stack_Queue/PalindromeChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/Stack_Queue/ParenthesesChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/Stack_Queue/ReverseArrayWithStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/Stack_Queue/ReverseString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/Stack_Queue/WordCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/Test/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1/src/Test/Queue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,21 +59,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2NHJBMpfr0UWizScWddyIdxI3cQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -51,5 +89,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
